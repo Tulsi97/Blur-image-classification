@@ -7,19 +7,23 @@ Blue images can be detected with the help of Laplacian operators by taking the m
 
 Description of the dataset: 
 **dataset link:** https://mklab.iti.gr/results/certh-image-blur-dataset/
+
+
+
 The Training Set consists of:
-		630 undistorted (clear) images
-		220 naturally-blurred images
-		150 artificially-distorted images
+	1.630 undistorted (clear) images
+	2.220 naturally-blurred images
+	3.150 artificially-distorted images
+
 
 The Evaluation Set consists of two individual data sets :
-	The Natural Blur Set which consists of:
-		589 undistorted (clear) images
-		411 naturally-blurred images
+1.The Natural Blur Set which consists of:
+	589 undistorted (clear) images
+	411 naturally-blurred images
 		
-	The Digital Blur Set
-		30 undistorted (clear) images
-		450 artificially-blurred images
+2.The Digital Blur Set
+	30 undistorted (clear) images
+	450 artificially-blurred images
 
 Steps:
 1. create a virtual environment 
